@@ -7,7 +7,7 @@ It also supports command-line usage. Use "Encryptor-Console --help" for viewing 
 # Usage
 You can run Encryptor-Console from terminal for live interaction or invoke by passing command-line arguments.
 
-** Encryptor-Console [options] --path path_to_the_file_or_folder --password mypassword **
+**Encryptor-Console [options] --path path_to_the_file_or_folder --password mypassword**
                                                
 Options :
 * --encrypt , -e
