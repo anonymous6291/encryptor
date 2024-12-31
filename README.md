@@ -6,7 +6,9 @@ It also hides your file's name (not folder's name) for better confidentiality.
 * Linux   = Both console and gui mode
 * Windows = Console mode only
 * Mac     = No support (I am working on it.)
+# Tested on
+* Linux 6.8.0-51-generic
+* Windows 11
 # Note
 * Encryption or decryption of drives is currently not supported.
-* Programs were successfully tested on latest versions of Windows 11 and Linux on 31st December 2024.
 * At present, there is no support for older versions of OS.
