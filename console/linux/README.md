@@ -1,5 +1,5 @@
 # Encryptor-Console
-Encrypt or decrypt files with Encryptor-Console. Encryptor-Console is a terminal based program.
+Encrypt or decrypt files with Encryptor-Console. Encryptor-Console is a terminal-based program.
 Encryptor-Console accepts a single file or folder as input and performs operations recursively and concurrently.
 It also hides your file's name (not folder's name) for better confidentiality.
 Encryption or decryption of drives is currently not supported.
