@@ -8,5 +8,5 @@ It also hides your file's name (not folder's name) for better confidentiality.
 * Mac     = No support (I am working on it.)
 # Note
 * Encryption or decryption of drives is currently not supported.
-* Programs were successfully tested on latest versions of Windows 11 and Linux on 31st Decemeber 2024.
+* Programs were successfully tested on latest versions of Windows 11 and Linux on 31st December 2024.
 * Currently there is no support for older versions of OS.
