@@ -8,15 +8,28 @@ It also supports command-line usage. Use "Encryptor-Console --help" for viewing 
 You can run Encryptor-Console from terminal for live interaction or invoke by passing command-line arguments.
 
 Usage :
-Encryptor-Console [options] --path path_to_the_file_or_folder --password mypassword
+** Encryptor-Console [options] --path path_to_the_file_or_folder --password mypassword **
                                                
 Options :
-* --encrypt , -e   Encryption mode. Default choice.
-* --decrypt , -d   Decryption mode.
-* --path , -p      Path to the file or folder. If path to folder is given then it performs operations recursively and concurrently.
-* --threads , -t   Threads count in the range [1,10]. Default value = [5].
-* --password       Password used to encrypt or decrypt the file. Password's length must be in the range of [5,50].
-* --help , -h      To view this help page.
+* --encrypt , -e
+  > Encryption mode. Default choice.
+* --decrypt , -d
+  > Decryption mode.
+* --path , -p
+  > Path to the file or folder. If path to folder is given then it performs operations recursively and concurrently.
+* --threads , -t
+  > Threads count in the range [1,10]. Default value = [5].
+* --password
+  > Password used to encrypt or decrypt the file. Password's length must be in the range of [5,50].
+* --help , -h
+  > To view this help page.
+# Examples :
+* Encryptor-Console
+  > Live terminal based interaction.
+* Encryptor-Console -e --path path_to_the_file_or_folder -t 10 --password mypassword      -
+  > Encrypts path_to_the_file_or_folder with password "mypassword" and [10] threads running concurrently.
+* Encryptor-Console -p path_to_the_file_or_folder --password mypassword
+  > Encrypts path_to_the_file_or_folder with password "mypassword" and [5] threads running concurrently.
 # Examples :
 * Encryptor-Console                                                                       -> Live terminal based interaction.
 * Encryptor-Console -e --path path_to_the_file_or_folder -t 10 --password mypassword      -> Encrypts path_to_the_file_or_folder with password "mypassword" and [10] threads running concurrently.
