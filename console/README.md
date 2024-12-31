@@ -25,7 +25,7 @@ Options :
 # Examples :
 * Encryptor-Console
   > Live terminal based interaction.
-* Encryptor-Console -e --path path_to_the_file_or_folder -t 10 --password mypassword      -
+* Encryptor-Console -e --path path_to_the_file_or_folder -t 10 --password mypassword
   > Encrypts path_to_the_file_or_folder with password "mypassword" and [10] threads running concurrently.
 * Encryptor-Console -p path_to_the_file_or_folder --password mypassword
   > Encrypts path_to_the_file_or_folder with password "mypassword" and [5] threads running concurrently.
