@@ -16,7 +16,7 @@ You can run Encryptor-Console from terminal for live interaction or invoke by pa
   > Decryption mode.
 * **--path , -p**
   > Path to the file or folder. If path to folder is given then it performs operations recursively and concurrently.
-* **--threads , -t*
+* **--threads , -t**
   > Threads count in the range [1,10]. Default value = [5].
 * **--password**
   > Password used to encrypt or decrypt the file. Password's length must be in the range of [5,50].
