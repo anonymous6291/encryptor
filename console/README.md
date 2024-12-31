@@ -10,7 +10,7 @@ You can run Encryptor-Console from terminal for live interaction or invoke by pa
 Encryptor-Console [options] --path path_to_the_file_or_folder --password mypassword
                                                
 Options :
-* --encrypt , -e   = Encryption mode. Default choice.
+** --encrypt , -e   = Encryption mode. Default choice.
 * --decrypt , -d   = Decryption mode.
 * --path , -p      = Path to the file or folder. If path to folder is given then it performs operations recursively and concurrently.
 * --threads , -t   = Threads count in the range [1,10]. Default value = [5].
