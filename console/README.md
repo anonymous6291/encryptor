@@ -33,6 +33,6 @@ You can run Encryptor-Console from terminal for live interaction or invoke by pa
 Only a terminal (Linux = [bash,etc.] or Windows = [cmd,powershell,etc.]) is needed to run this program.
 # Supported OS
 * **Linux**
-* **Windows**
+* **Windows 11**
 # Note
 I am working on providing support for Mac.
