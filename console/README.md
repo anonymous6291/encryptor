@@ -9,7 +9,7 @@ You can run Encryptor-Console from terminal for live interaction or invoke by pa
 
 **Encryptor-Console [options] --path path_to_the_file_or_folder --password mypassword**
                                                
-Options :
+## Options :
 * **--encrypt , -e**
   > Encryption mode. Default choice.
 * **--decrypt , -d**
