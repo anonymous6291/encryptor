@@ -15,3 +15,6 @@ It also hides your file's name (not folder's name) for better confidentiality.
 # Note
 * Encryption or decryption of drives is currently not supported.
 * At present, there is no support for older versions of OS.
+# License
+This project is licensed under the Apache License, Version 2.0.  
+See the LICENSE file for details.
