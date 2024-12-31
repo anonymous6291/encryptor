@@ -3,5 +3,5 @@ Use Encryptor-GUI for better and easy use.
 It performs the same tasks as Encryptor-Console but provides GUI for better experience.
 # Usage
 java -jar Encryptor.jar
-#Requirements
+# Requirements
 * JDK-23
