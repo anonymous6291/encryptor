@@ -1,20 +1,34 @@
-# Encryptor
-Encrypt or decrypt files with Encryptor.
-Encryptor accepts a single file or folder as input and performs operations recursively and concurrently.
-It also hides your file's name (not folder's name) for better confidentiality.
-# Supported modes for OS
-* Linux
-  > Both console and gui mode
-* Windows
-  > Console mode only
-* Mac
-  > No support (I am working on it.)
-# Tested on
-* **Linux 6.8.0-51-generic**
-* **Windows 11**
-# Note
-* Encryption or decryption of drives is currently not supported.
-* At present, there is no support for older versions of OS.
-# License
-This project is licensed under the Apache License, Version 2.0.  
-See the LICENSE file for details.
+# Encryptor (Version 1.0.0)
+
+Encryptor is a software that encrypts or decrypts files using your password. It accepts a single file or folder as input and performs operations recursively and concurrently. Additionally, it hides file names (not folder names) for better confidentiality.  
+**Encrypted files are created in the parent directory of the given path.**
+
+---
+
+## Supported Operating Systems
+- **Linux**
+- **Windows 11**
+
+## Supported Modes
+- **Linux**: Both console and GUI modes  
+- **Windows**: Console mode only  
+- **Mac**: Not supported (under development)
+
+---
+
+## Requirements
+- **Console Mode**: Only a terminal  
+- **GUI Mode**: JDK 23
+
+---
+
+## Tested On
+- **Linux 6.8.0-51-generic**  
+- **Windows 11**
+
+---
+
+## Notes
+- Encryption or decryption of drives is currently not supported.  
+- Please verify the file checksums before using Encryptor.
+
