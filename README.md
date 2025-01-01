@@ -10,15 +10,20 @@ Encryptor is a software that encrypts or decrypts files using your password. It 
 - **Windows 11**
 
 ## Supported Modes
-- **Linux**: Both console and GUI modes  
-- **Windows**: Console mode only  
-- **Mac**: Not supported (under development)
+- **Linux**
+   > Both console and GUI modes  
+- **Windows**
+   > Console mode only  
+- **Mac**
+   > No support (under development)
 
 ---
 
 ## Requirements
-- **Console Mode**: Only a terminal  
-- **GUI Mode**: JDK 23
+- **Console Mode**
+   > Terminal  
+- **GUI Mode**
+   > JDK-23
 
 ---
 
@@ -29,6 +34,6 @@ Encryptor is a software that encrypts or decrypts files using your password. It 
 ---
 
 ## Notes
-- Encryption or decryption of drives is currently not supported.  
+- At present encryption or decryption of drives is not supported.  
 - Please verify the file checksums before using Encryptor.
 
