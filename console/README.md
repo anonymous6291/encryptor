@@ -30,7 +30,7 @@ You can run Encryptor-Console from terminal for live interaction or invoke by pa
 * **Encryptor-Console -p path_to_the_file_or_folder --password mypassword**
   > Encrypts path_to_the_file_or_folder with password "mypassword" and [5] threads running concurrently.
 # Requirements
-* Terminal
+* **Terminal**
 # Supported OS
 * **Linux**
 * **Windows 11**
