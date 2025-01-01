@@ -1,7 +1,7 @@
 # Encryptor-Console
 Encrypt or decrypt files with Encryptor-Console. Encryptor-Console is a terminal-based program.
 Encryptor-Console accepts a single file or folder as input and performs operations recursively and concurrently.
-It also hides your file's name (not folder's name) for better confidentiality.
+Additionally, it hides file names (not folder names) for better confidentiality.
 Encryption or decryption of drives is currently not supported.
 It also supports command-line usage. Use "Encryptor-Console --help" for viewing help page.
 # Usage
@@ -30,4 +30,4 @@ You can run Encryptor-Console from terminal for live interaction or invoke by pa
 * **Encryptor-Console -p path_to_the_file_or_folder --password mypassword**
   > Encrypts path_to_the_file_or_folder with password "mypassword" and [5] threads running concurrently.
 # Requirements
-Only a terminal (Windows = [cmd,powershell,etc.]) is needed to run this program.
+* **Terminal**
