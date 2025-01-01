@@ -4,6 +4,6 @@ It performs the same tasks as Encryptor-Console but provides GUI for better expe
 # Usage
 **java -jar Encryptor.jar**
 # Requirements
-* JDK-23
+* **JDK-23**
 # Note
 * It also requires "Encryptor-No-Console" in the same directory to perform the tasks.
