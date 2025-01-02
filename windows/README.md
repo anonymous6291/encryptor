@@ -23,4 +23,4 @@ Encryptor is a software that encrypts or decrypts files using your password. It 
 
 ## Notes
 - At present encryption or decryption of drives is not supported.  
-- Please verify the file checksums before using Encryptor.
+- Please verify the file checksums (SHA-256) before using Encryptor.
