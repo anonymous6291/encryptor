@@ -20,7 +20,7 @@ You can run `Encryptor-Console.exe` directly for live interaction or invoke it f
   
 * **--path, -p**  
   > Paths to the files and folders. If the path to a folder is given, it performs operations recursively and concurrently.  
-  > Multiple paths should be separated by the path separator (`:`).
+  > Multiple paths should be separated by the path separator (`;`).
   
 * **--no-modify, -nm**  
   > Don't hide encrypted file names or don't retrieve decrypted file names.
