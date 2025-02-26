@@ -38,4 +38,4 @@ Encryptor is a software that encrypts or decrypts files using your password. It 
 ## Notes
 - There is **no backward compatibility** with version 1.x.x. Files encrypted with 1.x.x cannot be decrypted with 2.x.x and vice versa.
 - Please verify the file checksums (SHA-256) before using Encryptor.
-
+- GitHub's web interface may take a few seconds to start downloading files. If the download does not begin immediately, please wait a moment before trying again.
